@@ -1,5 +1,5 @@
 # work-projects
-Projects made for work.
+Projects made for work. Due to the confidentiality of the work, I am unable to provide any further media other than the code.
 
 # Skills Compiler.py
 This program would comb though the job descriptions folder and further into each department's folder and look for Word documents to parse though. It would grab the "Job Duties and Responsibilities" and "Knowledge, Skills, and Abilites" and output them into a "text_dumpster.txt" file. It would continue to go through every deparment's folder until it reached the end of the job descriptions directory.
